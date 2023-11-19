@@ -201,7 +201,7 @@ void studentInfo() //function for student info
 void courseInfo()
 {
 	cout << "**********************************************************" << endl;
-	cout << "            COURSE LIST FOR REGISTERATION" << endl;
+	cout << "            COURSE LIST FOR REGISTERATION                 " << endl;
 	cout << "**********************************************************" << endl;
 	
 	cout<<"|----------------------------------------------------------------------------|"<<endl;
